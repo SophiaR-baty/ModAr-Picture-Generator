@@ -1,0 +1,5 @@
+{
+	"Product": "x*y*i",
+	"Circle": "x**2+y**2",
+	"Polynomial": "x**i - y"
+}
